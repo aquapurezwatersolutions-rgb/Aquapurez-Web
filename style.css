@@ -1,0 +1,9 @@
+
+body { font-family: 'Segoe UI', sans-serif; }
+.hero { background: url('https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1') center/cover no-repeat; color: white; text-align: center; padding: 120px 20px; }
+.hero h1 { font-size: 3rem; font-weight: bold; }
+.hero p { font-size: 1.3rem; margin: 15px 0; }
+.navbar-brand .logo { height: 40px; margin-right: 10px; }
+.whatsapp-float { position: fixed; bottom: 20px; right: 20px; z-index: 1000; }
+.btn-primary { background-color: #0077b6; border: none; }
+.bg-primary { background-color: #0077b6 !important; }
